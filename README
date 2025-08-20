@@ -1,3 +1,12 @@
+# Archived 3rd-Party Fork
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+
+No further contributions are anticipated to be made.
+
+---
+
 = AWS::S3
 
 AWS::S3 is a Ruby library for Amazon's Simple Storage Service's REST API (http://aws.amazon.com/s3).
